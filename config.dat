@@ -1,0 +1,5 @@
+[Path]
+savelocation = /Users/madelinefarrugia/march1.cdf
+
+[Output]
+textfile = /Users/madelinefarrugia/swarm.txt
